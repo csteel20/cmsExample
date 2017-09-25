@@ -1,3 +1,4 @@
 {
-    "initial" : "derp"
+    "initial" : "changed",
+    "new_item" : "new value"
 }
